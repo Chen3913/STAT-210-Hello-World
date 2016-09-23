@@ -1,0 +1,28 @@
+---
+title: "Second R Markdown Assignment"
+author: "Winnie Chen"
+date: "September 16, 2016"
+output: html_document
+---
+Poinsettias <-read.csv ("file:///C:/Users/Winnie/Documents/R script/STAT-210-Hello-World/Poinsettias.csv")
+save (Poinsettias, file = "poin.RDA")
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, comment = "" )
+```
+
+```{r}
+load("poin.RDA")
+head(Poinsettias)
+
+Pt = table(Poinsettias$color)
+
+barplot(Pt, main= "Poinsettias Colors", xlab= "color", col=c("pink", "red", "white"))
+ 
+
+
+
+```
+Here is a barplot and table
+
+
