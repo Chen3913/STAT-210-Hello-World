@@ -17,6 +17,7 @@ head(Poinsettias)
 
 Pt = table(Poinsettias$color)
 
+table(Poinsettias$color)
 barplot(Pt, main= "Poinsettias Colors", xlab= "color", col=c("pink", "red", "white"))
  
 

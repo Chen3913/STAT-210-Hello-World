@@ -1,0 +1,44 @@
+First R Markdown Assignment
+Winnie Chen 
+
+September 9, 2016
+
+Instructions
+You are going to create a basic R Markdown file with specific information in it. I will direct you to format things in specific ways and you will simply follow directions and submit the final converted R Markdown File as your first assignment in this module on iLearn. The directions are in the same format as your submitted assignment should be in with my own personal answers instered under MY SOLUTION to give you an idea about what I am looking for and to share a bit about myself. Your Assignment Should be an HTML Document
+
+Let's begin.
+
+Input a Link
+I want you to make a link to your GitHub account inside the RMarkdown document. The text it links to should read "Here is my GitHub Account".
+
+MY SOLUTION
+[Here is my Github Account](https://github.com/Chen3913/STAT-210-Hello-World)
+
+MY SOLUTION
+1.	Nak Won Korea BBQ House (Marina)
+2.	Noodle Bar (Marina)
+3.	Keoki's Hawaiian Barbeque (Marina)
+4.	New Tokyo Restaurant (Marina)
+5.	Michi Japanese Restaurant (Marina)
+
+MY SOLUTION
+.	I am confident about my typing skills for R Studio
+.	I am curious about different set of codes for data
+.	I am confused about working this assignment and working it on Github and R.
+
+Quotations
+
+>I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be. Thomas Jefferson 
+
+Write three paragraphs with headings
+Write a brief paragraph about three interesting things you learned that you could do in R Markdown. Each paragraph should have a header (size 4) with a link to the lesson on the R Markdown page from your Intro to R Markdown module followed by a description of what it can do and how it is practical or useful to you personally.
+
+#R Markdown is useful because it can hold tons of data
+[Rmarkdown](https://ilearn.csumb.edu/mod/page/view.php?id=291138&inpopup=1) 
+     I feel like R markdown is like a word document like Microsoft Office. It's the same feeling like working on your first computer. Sometimes, it takes time to master a program and some usually comes naturally like videogames. R markdown is useful because it can store data in my computer
+     
+##R Markdown can be used for tables
+    R Markdown is useful because I can sort all types of data. For example, I can record the amount of mililiters that I can drink water instead of drinking Coca-cola soda and compare that to each other. Having that set of observation can motivate myself to being more healthier in drinking water instead. 
+    
+###R Markdown can be used for evidence
+Instead of using Excel from Microsoft Office, I like to have this set of skill where I keep all my information and have people look at them. There was a recent study that most of scientific papers use Excel but some of those papers have errors due to the program. I can use R markdown to take care of the evidence and prove to myself that I am capable of programming data.
